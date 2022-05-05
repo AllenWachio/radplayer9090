@@ -1,0 +1,29 @@
+h1{
+    font-family: Bahnschrift, cursive;
+    color: firebrick;
+    font-size: 35px;
+    alignment: center;
+}
+body{
+    background-image: url("images/technology-code-coding-computer.jpg");
+    alignment: center;
+    margin: 5px;
+    padding: 5px;
+    margin-left: 495px;
+}
+label{
+    font-size: 15px;
+    font-family: Consolas;
+    color: aqua;
+    alignment: center;
+    margin: 10px;
+    padding: 10px;
+}
+form {
+    alignment: center;
+}
+input  {
+    color: black;
+    font-family: "Franklin Gothic Heavy";
+    alignment: center;
+}

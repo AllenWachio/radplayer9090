@@ -1,0 +1,31 @@
+.cars{
+    font-family: Bahnschrift;
+    color: aquamarine;
+    text-align: center;
+    border: 2px dotted saddlebrown;
+    margin: 40px;
+    background-color: violet;
+    background-image: url(images/download.png);
+}
+.fruits{
+    border: 10px solid black;
+    text-align: center;
+    background-color: crimson;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+    font-family: "Century Schoolbook";
+    background-image: url(images/index.jpg);
+
+}
+.Fruits{
+    border: 15px dashed green;
+    padding: 30px;
+    font-family: "Arial Black";
+    margin: 35px;
+    background-color: lawngreen ;
+    background-image: url(images/5.jpg);
+    text-align: center;
+}
+

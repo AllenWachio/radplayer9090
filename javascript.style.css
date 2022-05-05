@@ -1,0 +1,16 @@
+button{
+    text-align:center ;
+    font-size: 40px;
+    font-family: "Baskerville Old Face";
+    navbutton_background_color: firebrick;
+    color: aquamarine;
+    background-color: salmon;
+    alignment: center;
+}
+h1{
+    font-family: Bahnschrift;
+    text-align: center;
+}
+body{
+    alignment: center;
+}
